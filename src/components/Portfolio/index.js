@@ -6,34 +6,28 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'surf-report',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'mtt-tech-blog',
+      description: 'Tech blog that required log-in',
+      link: "https://thawing-peak-67886.herokuapp.com/",
+      repo: "https://github.com/luckylobster25/Tech-Blog"
     },
     {
-      name: 'pastel-puzzels',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'weather-app',
+      description: 'Weather App for any city in the world',
+      link: "https://luckylobster25.github.io/weather/",
+      repo: "https://github.com/luckylobster25/weather"
     },
     {
-      name: 'run-buddy',
-      description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'ach-game-review',
+      description: 'Project-2 collaborate with other classmate',
+      link: "https://mighty-beyond-89277.herokuapp.com/",
+      repo: "https://github.com/luckylobster25/Project_2"
     },
     {
-      name: 'led-wall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
-    },
-    {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'portfolio-2',
+      description: 'Other portfolio not using REACT',
+      link: "https://tranquil-forest-01942.herokuapp.com/",
+      repo: "https://github.com/luckylobster25/My_Portfolio_2022"
     },
   ]);
 
