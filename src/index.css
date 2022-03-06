@@ -281,7 +281,10 @@ textarea {
   margin-top: var(--spacing-five);
   margin-bottom: var(--spacing-five);
 }
-
+.profile-picture {
+  border-radius: 10%;
+  width: 250px;
+}
 .px-1 {
   padding-right: var(--spacing-one);
   padding-left: var(--spacing-one);
