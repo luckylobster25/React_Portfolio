@@ -1,7 +1,7 @@
 # 💎React_Portfolio 2022💎
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)   
 [Live-link to Heroku](https://glacial-lowlands-57338.herokuapp.com/) ***NOT WORKING ATM ***  
-[Link to video](src/assets/profile/REACT_portfolio.mp4)
+[Link to video](https://drive.google.com/file/d/1qprwAf74B_LwnaeZlSsOIWVOVLbwGgGg/view)
 ![Screenshot of Web Application](src/assets/profile/overview.jpg)
 ## 📝 Table of Content
 *[Introduction](#introduction)  
