@@ -13,7 +13,8 @@ function Contact() {
   const { name, email, message } = formState;
 
   const handleSubmit = (e) => {
-    e.preventDefault();
+    // e.preventDefault();
+    console.log("it is good!");
     if (!errorMessage) {
       console.log('Submit Form', formState);
     }
